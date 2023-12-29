@@ -1,4 +1,4 @@
-<h2 align="center"> Fast Food Online Ordering System </h2>
+<h1 align="center"> Fast Food Online Ordering System </h1>
 
 Click here to see [Documentation](Documentation.pdf)👀
 
